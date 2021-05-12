@@ -1,0 +1,27 @@
+You can download my dataset via here!!
+
+https://drive.google.com/drive/folders/1wEV6ncwTCVzRazA5Hyxik7CRhNTeNiwl?usp=sharing
+
+Importantly, Directory format should be link this, please see at keras blog about ImageDataGenerator
+
+data/
+    train/
+        dogs/
+            dog001.jpg
+            dog002.jpg
+            ...
+        cats/
+            cat001.jpg
+            cat002.jpg
+            ...
+    validation/
+        dogs/
+            dog001.jpg
+            dog002.jpg
+            ...
+        cats/
+            cat001.jpg
+            cat002.jpg
+            ...
+            
+ thank you for interesting!!
